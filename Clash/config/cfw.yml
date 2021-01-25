@@ -1,0 +1,11 @@
+dns:
+   enable: true
+   enhanced-mode: redir-host # 或 fake-ip
+   listen: 0.0.0.0:53
+   nameserver:
+      - 119.29.29.29
+     # - https://clash-bq3fpk.d.rubyfish.cn
+   fallback:
+      - 8.8.8.8
+     # - https://dns.myweiqi.top/dns-query
+interface-name: network
