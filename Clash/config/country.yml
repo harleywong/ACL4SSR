@@ -2,3 +2,10 @@ mixed-port: 7890
 allow-lan: true
 external-controller: 0.0.0.0:9090
 log-level: info
+dns:
+  enable: true
+  enhanced-mode: redir-host
+  nameserver:
+    - https://x-harley.d.rubyfish.cn  
+  fallback:
+    - 1.1.1.1
