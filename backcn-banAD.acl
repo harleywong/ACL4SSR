@@ -64,7 +64,7 @@
 
 # 163
 (^|\.)(adgeo|bobo|fa|g|g1|gb|nex)(\.corp|)\.163\.com$
-(^|\.)(analytics|img1|img2|mimg|push)\.126\.net$
+(^|\.)(analytics|img1|img2|mimg)\.126\.net$
 (^|\.)(a|c|clkservice|conv|dsp|dsp-impr2|gorgon|rlogs|union|ydpushserver)\.youdao\.com$
 (^|\.)(nc004x|nc045x|qt002x|tb060x|tb104x)\.corp\.youdao\.com$
 (^|\.)(haitaoad|iadmatvideo)\.nosdn\.127\.net$
@@ -708,6 +708,7 @@
 (^|\.)(1|2)\.win7china\.com$
 (^|\.)(801|803|806|808|bdj|dol|click)\.(tianya|tianyaui)\.cn$
 (^|\.)(92x|its-dori)\.tumblr\.com$
+(^|\.)(ad-channel|ad-display)\.wikawika\.xyz$
 (^|\.)(adm|eq|ozone|stat|vaserviece)\.10jqka\.com\.cn$
 (^|\.)(ad|adadmin|ads)\.house365\.com$
 (^|\.)(ad|ads|counter)\.csdn\.net$
@@ -1572,6 +1573,7 @@
 (^|\.)alibabacloud\.com$
 (^|\.)alibabausercontent\.com$
 (^|\.)alicdn\.com$
+(^|\.)alicloudccp\.com$
 (^|\.)aliexpress\.com$
 (^|\.)aliimg\.com$
 (^|\.)alikunlun\.com$
@@ -1581,6 +1583,7 @@
 (^|\.)aliyun\.com$
 (^|\.)aliyuncdn\.com$
 (^|\.)aliyuncs\.com$
+(^|\.)aliyundrive\.com$
 (^|\.)amap\.com$
 (^|\.)autonavi\.com$
 (^|\.)dingtalk\.com$
@@ -2034,7 +2037,6 @@
 (^|\.)geilicdn\.com$
 (^|\.)ghpym\.com$
 (^|\.)godic\.net$
-(^|\.)gravatar\.com$
 (^|\.)guazi\.com$
 (^|\.)gwdang\.com$
 (^|\.)gzlzfm\.com$
@@ -2158,7 +2160,6 @@
 (^|\.)upyun\.com$
 (^|\.)uxengine\.net$
 (^|\.)videocc\.net$
-(^|\.)vmware\.com$
 (^|\.)wandoujia\.com$
 (^|\.)weather\.com$
 (^|\.)weico\.cc$
@@ -8288,7 +8289,7 @@
 (^|\.)tumbex\.com$
 (^|\.)twdvd\.com$
 (^|\.)unsplash\.com$
-(^|\.)xn--i2ru8q2qg\.com$
+(^|\.)vmware\.com$
 (^|\.)yunpanjingling\.com$
 (^|\.)ec2-54-210-142-85\.computer-1\.amazonaws\.com$
 (^|\.)ec2-54-174-24-124\.computer-1\.amazonaws\.com$
@@ -13896,7 +13897,6 @@
 (^|\.)xmovies\.com$
 (^|\.)xn--4gq171p\.com$
 (^|\.)xn--czq75pvv1aj5c\.org$
-(^|\.)xn--i2ru8q2qg\.com$
 (^|\.)xn--ngstr-lra8j\.com$
 (^|\.)xn--oiq\.cc$
 (^|\.)xn--p8j9a0d9c9a\.xn--q9jyb4c$
@@ -14147,10 +14147,6 @@
 (^|\.)discord\.media$
 (^|\.)discordapp\.com$
 (^|\.)discordapp\.net$
-
-# Dubox
-(^|\.)dubox\.com$
-(^|\.)duboxcdn\.com$
 
 # Facebook
 (^|\.)facebook\.com$
@@ -14469,6 +14465,10 @@
 2001:67c:4e8::/48
 2001:b28:f23d::/48
 2001:b28:f23f::/48
+
+# TeraBox
+(^|\.)terabox\.com$
+(^|\.)teraboxcdn\.com$
 
 # Twitch
 (^|\.)twitch\.tv$
